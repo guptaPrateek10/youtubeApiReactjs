@@ -1,0 +1,21 @@
+[debug] [2021-11-10T09:55:45.058Z] ----------------------------------------------------------------------
+[debug] [2021-11-10T09:55:45.062Z] Command:       C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-11-10T09:55:45.063Z] CLI Version:   9.22.0
+[debug] [2021-11-10T09:55:45.063Z] Platform:      win32
+[debug] [2021-11-10T09:55:45.063Z] Node Version:  v14.0.0
+[debug] [2021-11-10T09:55:45.064Z] Time:          Wed Nov 10 2021 15:25:45 GMT+0530 (India Standard Time)
+[debug] [2021-11-10T09:55:45.065Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-11-10T09:55:45.074Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-11-10T09:55:45.074Z] > authorizing via signed-in user (guptaprateek10@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  W:\React_Code\video-api-app
+
